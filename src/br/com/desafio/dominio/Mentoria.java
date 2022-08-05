@@ -10,17 +10,6 @@ public class Mentoria {
         return titulo;
     }
 
-    public void setTitulo(String titulo) {
-        this.titulo = titulo;
-    }
-
-    public String getDescricao() {
-        return descricao;
-    }
-
-    public void setDescricao(String descricao) {
-        this.descricao = descricao;
-    }
 
     public LocalDate getData() {
         return data;
@@ -41,3 +30,9 @@ public class Mentoria {
 
     private LocalDate data;
 }
+
+
+
+
+
+
